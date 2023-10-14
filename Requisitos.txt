@@ -1,0 +1,16 @@
+Requisitos 
+
+Instalar o GIT SCM
+CRIAR UMA CONTA NO GITHUB
+CRIAR UM REPOSITORIO CASO DESEJE HOSPEDAR ALGUM PROJETO
+
+
+
+
+
+    git config --global user.name "Edmario Junior"
+    git config --global user.name
+
+     git config --global user.email "edmariojunior7272@gmail.com"
+     git config --global user.email
+
